@@ -20,3 +20,4 @@ var objects;
     })(objects.Person);
     objects.Student = Student;
 })(objects || (objects = {}));
+//# sourceMappingURL=student.js.map

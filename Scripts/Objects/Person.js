@@ -13,3 +13,4 @@ var objects;
     })();
     objects.Person = Person;
 })(objects || (objects = {}));
+//# sourceMappingURL=person.js.map

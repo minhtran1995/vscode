@@ -7,6 +7,8 @@ import Student = objects.Student;
 
 console.log("Game Started...");
 
+$(document).ready;
+$("body").text
 
 var person: Person = new Person("Tom");
 person.speaks();
